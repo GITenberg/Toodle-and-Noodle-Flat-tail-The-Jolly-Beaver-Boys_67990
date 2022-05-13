@@ -1,0 +1,40 @@
+_repo: Toodle-and-Noodle-Flat-tail-The-Jolly-Beaver-Boys_67990
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wisa, Louis
+    gutenberg_agent_id: '8138'
+    url: http://www.gutenberg.org/2009/agents/8138
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2022-05-04'
+identifiers:
+  gutenberg: '67990'
+language: en
+pgterms:marc904: https://archive.org/details/toodlenoodleflat00gari/page/n5/mode/2up
+pgterms:marc905: 20210119184708garis
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Charlene Taylor, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :A. L. Burt Company,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Toodle and Noodle Flat-tail: The Jolly Beaver Boys'
+url: http://www.gutenberg.org/ebooks/67990
